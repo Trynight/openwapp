@@ -837,7 +837,7 @@ define([], function () {
      validateCodeProgress: 'Verifica codice…',
      validateCodeCall: 'Chiamami per convalidare il codice',
      settingAccount: 'Impostando l account…',
-     pictureDescription: 'Scegli un immagine da far visualizzare ai tuoi contatti\'s ' +
+     pictureDescription: 'Scegli un immagine da far visualizzare ai tuoi contatti ' +
      'foto',
      screenNamePlaceHolder: 'Tuo nome',
      screenNameDescription: 'Questo apparirà come il tuo nome ai tuoi contatti',
@@ -861,7 +861,7 @@ define([], function () {
      sendLocation: 'Invia posizione',
      loadLocationError: 'La posizione non può essere caricata al momento\n' +
      'Perfavore riprova più tardi.',
-     retrievingLocation: 'Ricevedo la posizione…',
+     retrievingLocation: 'Ricevendo la posizione…',
      cancelButton: 'Cancella',
      currentLocation: 'La mia posizione attuale',
      logoutAlertText: 'Utilizza questa opzione soltanto se vuoi pulire OpenWapp ' +
@@ -876,21 +876,21 @@ define([], function () {
      migrationHeader: 'OpenWapp aggiornato',
      migrationBody: 'OpenWapp sta terminando l\'aggiornamento',
      migrationPleaseWait: 'Perfavore attendi',
-     conversationLastSeen: 'Visto l\' ultima volta:',
+     conversationLastSeen: 'Ultimo accesso:',
      conversationIsOnline: 'Online',
      loadingParticipants: 'Caricamento contatti…',
      invite: 'Invita a  WhatsApp',
      tellAFriendText: 'Controlla Whatsapp Messenger per Android, iPhone, ' +
      'Nokia, BlackBerry, Windows Phone e adesso anche Firefox OS! Scaricalo' +
      'oggi da http://whatsapp.com/dl/',
-     emojiListTitle: 'Seegli un emoji da mandare',
+     emojiListTitle: 'Scegli un emoji da mandare',
      contactProfile: 'Profilo del contatto',
      newGroup: 'Nuovo gruppo',
      groupProfile: 'Informazioni Gruppo',
      leaveGroup: 'Abbandona il Gruppo',
      groupPictureDescription: 'Scegli un immagine per il gruppo',
-     subjectPlaceHolder: 'Questo gruppo parla di...',
-     subjectDescription: 'Brevemente descrivi di cosa parla questo gruppo',
+     subjectPlaceHolder: 'Questo gruppo tratta di...',
+     subjectDescription: 'Brevemente descrivi di cosa tratta questo gruppo',
      participants: 'Membri',
      unknownParticipant: 'Membro sconosciuto',
      participantsDescription: 'Scegli i membri di questo gruppo',
